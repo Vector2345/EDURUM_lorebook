@@ -1,5 +1,3 @@
----
-
 # EDRUM_lorebook
 
 A SillyTavern WorldInfo lorebook for an original high fantasy RPG setting — **Ederum**.
@@ -12,12 +10,13 @@ Developed over iterative testing sessions with assistance from Claude (Anthropic
 
 ## Features
 
-- 33 WorldInfo entries with keyword triggers
+- 36 WorldInfo entries with keyword triggers
 - DO / SAY / STORY command system
 - d20 dice mechanics
 - Faction-aware NPC knowledge system
 - Legal system with consequences — arrest, trial, execution
 - Three different prison systems per race
+- Magical shackles system for three races
 - Class determination through player behavior
 
 ## Requirements
@@ -37,20 +36,18 @@ Tested and optimized for this model. Other roleplay-focused models should work b
 |------|-------------|
 | `edrum_worldinfo_v7.json` | Main WorldInfo lorebook |
 | `edrum_system_prompt_v5.txt` | System prompt |
-| `edrum_prompt_v7.txt` | Main prompt |
-| `edrum_first_message.txt` | Opening message |
+| `Game Master EDURUM.json` | Character card with built-in prompt and opening message |
 | `Default.json` | Sampler settings — temperature, penalties, generation parameters |
 | `ST-formatting-2026-03-01.json` | SillyTavern response format settings |
 
 ## Setup
 
 1. Install **D&D Dice** extension in SillyTavern
-2. Import `edrum_worldinfo_v6b.json` into SillyTavern WorldInfo
-3. Load `edrum_system_prompt_v4.txt` as system prompt
-4. Load `edrum_prompt_v7.txt` as main prompt
-5. Use `edrum_first_message.txt` as opening message
-6. Import `Default.json` into your sampler settings
-7. Import `ST-formatting-2026-03-01.json` into SillyTavern formatting settings
+2. Import `edrum_worldinfo_v7.json` into SillyTavern WorldInfo
+3. Load `edrum_system_prompt_v5.txt` as system prompt
+4. Import `Game Master EDURUM.json` as character card
+5. Import `Default.json` into your sampler settings
+6. Import `ST-formatting-2026-03-01.json` into SillyTavern formatting settings
 
 ## Commands
 
