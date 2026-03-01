@@ -9,7 +9,6 @@ Developed over iterative testing sessions with assistance from Claude (Anthropic
 ## Features
 - 36 WorldInfo entries with keyword triggers
 - DO / SAY / STORY command system
-- d20 dice mechanics
 - Faction-aware NPC knowledge system
 - Legal system with consequences — arrest, trial, execution
 - Three different prison systems per race
