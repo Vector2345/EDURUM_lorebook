@@ -34,12 +34,11 @@ Tested and optimized for this model. Other roleplay-focused models should work b
 | `ST-formatting-2026-03-01.json` | SillyTavern response format settings |
 
 ## Setup
-1. Install **D&D Dice** extension in SillyTavern
-2. Import `edrum_worldinfo_v10.json` into SillyTavern WorldInfo
-3. Load `edrum_system_prompt_v5.txt` as system prompt
-4. Import `Game Master EDURUM.json` as character card
-5. Import `Default.json` into your sampler settings
-6. Import `ST-formatting-2026-03-01.json` into SillyTavern formatting settings
+1. Import `edrum_worldinfo_v10.json` into SillyTavern WorldInfo
+2. Load `edrum_system_prompt_v5.txt` as system prompt
+3. Import `Game Master EDURUM.json` as character card
+4. Import `Default.json` into your sampler settings
+5. Import `ST-formatting-2026-03-01.json` into SillyTavern formatting settings
 
 ## Commands
 - `DO [action]` — physical action
