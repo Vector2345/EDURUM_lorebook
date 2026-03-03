@@ -36,8 +36,8 @@ Tested and optimized for this model. Other roleplay-focused models should work b
 ## Setup
 1. Import `edrum_worldinfo_v10.json` into SillyTavern WorldInfo
 2. Load `edrum_system_prompt_v5.txt` as system prompt
-3. Import `Game Master EDURUM.json` as character card
-4. Import `Default.json` into your sampler settings
+3. Import `Game Master EDRUM.json` as character card
+4. Import `RP.json` into your sampler settings
 5. Import `ST-formatting-2026-03-01.json` into SillyTavern formatting settings
 
 ## Commands
